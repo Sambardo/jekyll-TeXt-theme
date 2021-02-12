@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: PowerShell for Programmers Series
 ---
 
@@ -15,8 +15,7 @@ PowerShell is geared towards IT admins and made easy to learn with lots of nice 
 
 People with general programming knowledge (C, C++, C#, Java, Perl, Python, etc) who are looking to pick up PowerShell.
 
-## I’m going to assume you understand lots of programming concepts already, including things like:
-
+**I’m going to assume you understand lots of programming concepts already, including things like:**
 - Variables
 - Object models
 - Flow Control (loops, if statements, switch statements)
@@ -30,9 +29,9 @@ If you find this helpful don't forget to rate, comment and share 🙂
 1. [Basic Syntax – Variables, Objects, and Data Types](https://devblogs.microsoft.com/scripting/powershell-for-programmers-basic-syntax-variables-objects-and-data-types/)
 1. [What happened to my operators? (==,!=, >=, etc)](https://devblogs.microsoft.com/scripting/powershell-for-programmers-what-happened-to-my-operators/)
 1. [How to write function the right way](https://devblogs.microsoft.com/scripting/powershell-for-programmers-how-to-write-a-function-the-right-way/)
-    - [Doing more with functions: Taking Parameters on the Pipe](https://devblogs.microsoft.com/scripting/doing-more-with-functions-taking-parameters-on-the-pipe/)
-    - [Doing more with functions: Verbose logging, Risk mitigation, Parameter Sets, etc](https://devblogs.microsoft.com/scripting/doing-more-with-functions-verbose-logging-risk-mitigation-and-parameter-sets/)
-    - [Adding help data to functions](https://devblogs.microsoft.com/scripting/doing-more-with-functions-comment-based-help/)
+    + [Doing more with functions: Taking Parameters on the Pipe](https://devblogs.microsoft.com/scripting/doing-more-with-functions-taking-parameters-on-the-pipe/)
+    +  [Doing more with functions: Verbose logging, Risk mitigation, Parameter Sets, etc](https://devblogs.microsoft.com/scripting/doing-more-with-functions-verbose-logging-risk-mitigation-and-parameter-sets/)
+    + [Adding help data to functions](https://devblogs.microsoft.com/scripting/doing-more-with-functions-comment-based-help/)
 1. [Double quotes, single quotes, and other quirks with strings](https://devblogs.microsoft.com/scripting/powershell-for-programmers-strings-quotes-and-quirks/)
-    - [Here Strings](https://devblogs.microsoft.com/scripting/powershell-for-programmers-here-strings-there-strings-everywhere-some-string-strings/)
+    + [Here Strings](https://devblogs.microsoft.com/scripting/powershell-for-programmers-here-strings-there-strings-everywhere-some-string-strings/)
 1. [Let the switch statement do some extra work for you!](https://devblogs.microsoft.com/scripting/powershell-for-programmers-the-magic-switch/)
