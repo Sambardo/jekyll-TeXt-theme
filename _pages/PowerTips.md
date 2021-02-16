@@ -20,7 +20,5 @@ If there are visual/link issues on the posts, just let me know. If I can't updat
 1. [Checking your PowerShell version](https://devblogs.microsoft.com/scripting/powershell-powertip-checking-your-powershell-version/)
 1. [Grabbing the location your script lives in](https://devblogs.microsoft.com/scripting/powershell-powertip-grabbing-the-location-your-script-lives-in/)
 1. [ISE crashing and auto complete not working](https://devblogs.microsoft.com/scripting/powershell-powertip-ise-crashing-and-auto-complete-not-working/)
-1. [Checking your PowerShell version](https://devblogs.microsoft.com/scripting/powershell-powertip-checking-your-powershell-version/)
-1. [Checking your PowerShell version](https://devblogs.microsoft.com/scripting/powershell-powertip-checking-your-powershell-version/)
 
 Have a question? Have a good tip to add? Let me know!
