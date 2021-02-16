@@ -1,6 +1,6 @@
 ---
 layout: article
-title: PowerShell for Programmers Series
+title: Regular Expressions (RegEx) Series
 ---
 
 <span style="color:red">
